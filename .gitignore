@@ -1,0 +1,8 @@
+# Ignore node_modules folder
+/node_modules
+
+# Ignore db
+/server/db
+
+# Ignore vapid.json
+/server/vapid.json
